@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BogePrathmesh&label=Profile%20views&color=0e75b6&style=flat" />
   <a href="mailto:bogeprathmesh@gmail.com"><img src="https://img.shields.io/badge/Email-bogeprathmesh%40gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode"></a>
+  <a href="https://leetcode.com/u/Prathmesh_Boge/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode"></a>
   <a href="https://github.com/BogePrathmesh"><img src="https://img.shields.io/badge/GitHub-BogePrathmesh-black?style=flat&logo=github"></a>
 </p>
 
