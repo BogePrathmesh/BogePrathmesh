@@ -4,14 +4,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BogePrathmesh&label=Profile%20views&color=0e75b6&style=flat" />
   <a href="mailto:bogeprathmesh@gmail.com"><img src="https://img.shields.io/badge/Email-bogeprathmesh%40gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://leetcode.com/u/Prathmesh_Boge/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode"></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode"></a>
   <a href="https://github.com/BogePrathmesh"><img src="https://img.shields.io/badge/GitHub-BogePrathmesh-black?style=flat&logo=github"></a>
 </p>
 
 ---
 
 <p align="center">
-  <b>From Idea → Code → Real World Application</b>
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&width=600&lines=From+Idea+→+Code+→+Real+World+Application;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" />
 </p>
 
 <p align="center">
@@ -23,11 +23,40 @@
 ## 🧠 About Me
 - 🎓 B.Tech IT Student (CGPA: 8.86)
 - 💻 Full Stack Developer (MERN + Spring Boot)
-- 🤖 Interested in AI & Real-Time Applications
+- 🤖 Interested in AI, Backend Development & Real-Time Applications
 - 🏆 Top 10 in National Level Hackathon
 - 📜 Patent Holder – IoT Women Safety Tracking System
 - 📍 Pune, Maharashtra, India
 - 🎯 Goal: Software Engineer in Product-Based Company
+
+---
+
+## 🚀 Projects
+
+### 🛒 BuyNest – E-Commerce Platform
+**Tech Stack:** Java, Spring Boot, React, REST APIs, H2 Database  
+- Built full-stack e-commerce web application  
+- Implemented CRUD operations for product management  
+- Secure login & signup authentication  
+- Spring Boot REST backend + React frontend  
+
+---
+
+### 🏨 EasyStay – Accommodation Booking Platform
+**Tech Stack:** Node.js, Express, MongoDB, EJS, Mapbox  
+- Full-stack accommodation booking platform  
+- Authentication & role-based authorization  
+- REST APIs and server-side rendering  
+- Cloud image upload & interactive maps  
+
+---
+
+### 💬 KINNECT – Real-Time Communication Platform
+**Tech Stack:** React, Node.js, Express, MongoDB, Socket.IO  
+- Real-time communication web app  
+- Live updates using Socket.IO  
+- REST API backend  
+- Responsive Material UI frontend  
 
 ---
 
@@ -72,8 +101,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=BogePrathmesh&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BogePrathmesh&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogePrathmesh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -85,4 +115,4 @@
 
 ## 📫 Contact Me
 - 📧 bogeprathmesh@gmail.com
-- 📍 Pune, India
+- 📍 Pune, Maharashtra, India
