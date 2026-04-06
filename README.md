@@ -21,7 +21,6 @@
 ---
 
 ## 🧠 About Me
-- 🎓 B.Tech IT Student (CGPA: 8.86)
 - 💻 Full Stack Developer (MERN + Spring Boot)
 - 🤖 Interested in AI, Backend Development & Real-Time Applications
 - 🏆 Top 10 in National Level Hackathon
