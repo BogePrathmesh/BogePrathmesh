@@ -1,51 +1,71 @@
-<h1 align="center">Hi 👋, I'm Prathmesh Boge</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h1 align="center">👋 Hi, I'm Prathmesh Boge</h1>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 Software Engineer</h3>
 
 <p align="center">
-  <a href="mailto:bogeprathmesh@gmail.com">Email</a> •
-  <a href="www.linkedin.com/in/prathmesh-boge-380787257">LinkedIn</a> •
-  <a href="https://github.com/BogePrathmesh">GitHub</a> •
-  <a href="https://leetcode.com/u/Prathmesh_Boge/">LeetCode</a> •
+  <img src="https://komarev.com/ghpvc/?username=BogePrathmesh&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="mailto:bogeprathmesh@gmail.com"><img src="https://img.shields.io/badge/Email-bogeprathmesh%40gmail.com-red?style=flat&logo=gmail"></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode"></a>
+  <a href="https://github.com/BogePrathmesh"><img src="https://img.shields.io/badge/GitHub-BogePrathmesh-black?style=flat&logo=github"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I am a passionate Full Stack Developer and Information Technology student who loves building real-world applications and solving problems through technology. I enjoy working on both frontend and backend development and have experience building scalable web applications using modern technologies.
+<p align="center">
+  <b>From Idea → Code → Real World Application</b>
+</p>
 
-I am highly interested in Artificial Intelligence, backend systems, and real-time applications. I enjoy learning new technologies and applying them to practical projects that solve real-world problems.
-
-I am currently focused on improving my Data Structures & Algorithms, Full Stack Development, and System Design skills to become a skilled software engineer.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
 
 ---
 
-## 🎓 Education
-- **B.Tech in Information Technology** – Vishwakarma Institute of Information Technology, Pune (CGPA: 8.86)
-- **Diploma in Computer Engineering** – 91.09%
-- **SSC** – 87%
+## 🧠 About Me
+- 🎓 B.Tech IT Student (CGPA: 8.86)
+- 💻 Full Stack Developer (MERN + Spring Boot)
+- 🤖 Interested in AI & Real-Time Applications
+- 🏆 Top 10 in National Level Hackathon
+- 📜 Patent Holder – IoT Women Safety Tracking System
+- 📍 Pune, Maharashtra, India
+- 🎯 Goal: Software Engineer in Product-Based Company
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-`C` `C++` `Java` `Python`
+### 👨‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 
 ### 🌐 Web Development
-`HTML` `CSS` `JavaScript` `React.js` `Node.js` `Express.js` `Spring Boot` `Spring Framework` `Bootstrap`
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot)
 
 ### 🗄️ Databases
-`MySQL` `MongoDB` `H2 Database`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![H2](https://img.shields.io/badge/H2-09476B?style=flat)
 
-### ⚙️ Tools & Technologies
-`Git` `GitHub` `REST APIs` `CRUD Operations` `Socket.IO` `Mapbox` `Render Deployment`
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=flat)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat)
 
 ---
 
 ## 🏆 Achievements
-- 📜 Co-inventor of a **Patent** for IoT-based Women Safety Tracking System
-- 🏅 Secured **Top 10** position in National Level Hackathon (250+ Teams)
-- 🏆 Scored **100%** in C Programming Assessment
+- 📜 Patent: IoT-based Women Safety Tracking System
+- 🏅 Top 10 – National Level Hackathon (250+ Teams)
+- 🏆 100% Score in C Programming Assessment
 
 ---
 
@@ -54,30 +74,15 @@ I am currently focused on improving my Data Structures & Algorithms, Full Stack 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BogePrathmesh&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BogePrathmesh&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogePrathmesh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 💼 What I'm Currently Working On
-- Full Stack Web Development Projects
-- Data Structures & Algorithms
-- AI-based Applications
-- Real-time Web Applications
-- Backend Development with Spring Boot & Node.js
+## 💡 Motto
+> Code. Learn. Build. Repeat.
 
 ---
 
-## 🎯 Career Goal
-My goal is to become a skilled Software Engineer and work on large-scale real-world applications, backend systems, and AI-powered products that impact millions of users.
-
----
-
-## 💡 Quote I Believe In
-> "Consistency is more important than motivation."
-
----
-
-## 🔗 Connect With Me
-- 📧 Email: bogeprathmesh@gmail.com
-- 📍 Location: Pune, Maharashtra, India
+## 📫 Contact Me
+- 📧 bogeprathmesh@gmail.com
+- 📍 Pune, India
