@@ -3,10 +3,9 @@
 
 <p align="center">
   <a href="mailto:bogeprathmesh@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="www.linkedin.com/in/prathmesh-boge-380787257">LinkedIn</a> •
   <a href="https://github.com/BogePrathmesh">GitHub</a> •
-  <a href="https://leetcode.com/">LeetCode</a> •
-  <a href="https://www.geeksforgeeks.org/">GFG</a>
+  <a href="https://leetcode.com/u/Prathmesh_Boge/">LeetCode</a> •
 </p>
 
 ---
